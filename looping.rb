@@ -1,4 +1,4 @@
-def looping
+def looping(loop)
 	#your code here
 end
 
